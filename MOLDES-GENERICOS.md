@@ -7,6 +7,9 @@ Dos plantillas **que compilan** (probadas con `vite build`) y sirven para CUALQU
 | **login / AuthContext / POST /api/login** | plantilla LOGIN | [`plantillas/login/src/`](plantillas/login/src) |
 | **historial / recientes / localStorage / Context de consultas** | plantilla HISTORIAL | [`plantillas/historial/src/`](plantillas/historial/src) |
 
+👉 **Antes de copiar cada plantilla, leé su guía** (ficha a completar + "qué reemplazar según lo que pidan"):
+[`plantillas/login/GUIA-REEMPLAZOS.md`](plantillas/login/GUIA-REEMPLAZOS.md) · [`plantillas/historial/GUIA-REEMPLAZOS.md`](plantillas/historial/GUIA-REEMPLAZOS.md)
+
 Dentro de cada archivo vas a ver dos marcas:
 - `🔧 CAMBIAR` → un valor que SÍ o SÍ hay que adaptar a tu tema.
 - `SI PIDEN … →` → un bloque opcional (comentado) para ese requisito. Lo descomentás o lo borrás.
