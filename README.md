@@ -13,6 +13,10 @@ las 6 soluciones compilan y pasan un test en Chrome real (rutas, fetch, login, h
 > Los dos comparten el 80%: **Router + fetch con loading/error + lista + detalle + 404 + un Context**.
 > Cambia solo cuál es el Context (sesión vs. historial).
 
+## ⭐ Si el tema es NUEVO (o querés lo más rápido)
+
+👉 [`MOLDES-GENERICOS.md`](MOLDES-GENERICOS.md) — plantillas **100% genéricas** (`plantillas/login` y `plantillas/historial`) con `🔧 CAMBIAR` y bloques `SI PIDEN … →` (MAX, orden, filtros, roles, etc.), mapa de qué reemplazar y dónde, y valores de los 6 modelos.
+
 ## Cómo usar esto mañana (orden de lectura)
 
 1. 🔥 [`guia/01-paso-a-paso.md`](guia/01-paso-a-paso.md) — el procedimiento completo, minuto a minuto. **Seguilo en orden.**

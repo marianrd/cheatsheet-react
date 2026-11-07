@@ -89,6 +89,8 @@ Después, abrí `rubricas.md` y fijate que cada punto esté cubierto (la guía `
 
 # 🆕 PARCIAL NUEVO (otro tema)
 
+> ⭐ **Atajo**: copiá `plantillas/login/src` o `plantillas/historial/src` y seguí [`MOLDES-GENERICOS.md`](MOLDES-GENERICOS.md) (reemplazo en 4 pasos + mapa de qué cambiar). Lo de abajo es la alternativa vieja.
+
 Esto es lo difícil, así que andá de a poco. La idea: **copiar un modelo del mismo tipo y cambiar los nombres**.
 
 **A.** Leé el `README.md` del examen: ¿pide login o historial/recientes?

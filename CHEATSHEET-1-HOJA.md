@@ -1,4 +1,5 @@
 # 📄 CHEATSHEET — Vanilla → React (1 hoja)
+> 🧩 **Moldes completos y genéricos con "SI PIDEN X →"**: `MOLDES-GENERICOS.md` + `plantillas/{login,historial}/src/`
 
 ## Arranque
 ```bash
