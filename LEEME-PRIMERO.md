@@ -1,4 +1,6 @@
-# 🆘 LEEME PRIMERO — versión "no entiendo nada"
+# 🆘 LEEME PRIMERO — práctica con los 6 modelos
+
+> ⚠️ Esto sirve para **practicar** con los 6 modelos que ya tenés. Para un parcial **nuevo** (o si te piden hacerlo a mano) usá [`guia/00-EMPEZAR-ACA.md`](guia/00-EMPEZAR-ACA.md): explica cada pieza desde cero.
 
 No tenés que entender React para empezar. Seguí estos pasos **en orden**, copiando y pegando.
 Si te trabás, andá directo a la sección **"Si algo sale mal"** al final.
