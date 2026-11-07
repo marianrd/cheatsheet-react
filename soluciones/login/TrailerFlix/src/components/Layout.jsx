@@ -32,7 +32,7 @@ export function Layout({ children }) {
           )}
         </nav>
       </header>
-      <main>{children}</main>
+      <main style={{ width: "100%" }}>{children}</main>
     </div>
   );
 }

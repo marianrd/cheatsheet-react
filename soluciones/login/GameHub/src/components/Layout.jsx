@@ -37,7 +37,7 @@ export function Layout({ children }) {
           )}
         </nav>
       </header>
-      <main>{children}</main>
+      <main style={{ width: "100%" }}>{children}</main>
       <footer>
         <p>🎮 GameHub React © {currentYear} - Examen de Migración a React | Juega Responsable 🕹️</p>
       </footer>
